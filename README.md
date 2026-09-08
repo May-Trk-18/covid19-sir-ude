@@ -1,2 +1,2 @@
-# -COVID-19-Epidemic-Modeling-using-SIR-and-Universal-Differential-Equation-UDE-.
+# COVID-19-Epidemic-Modeling-using-SIR-and-Universal-Differential-Equation-UDE-.
 Developed a COVID-19 epidemic model using the classical SIR (Susceptible–Infected–Recovered) model and a Universal Differential Equation (UDE). The UDE combines the SIR differential equations with a neural network to learn a changing transmission rate, allowing the model to better capture changes in epidemic dynamics over time.
