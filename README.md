@@ -23,7 +23,7 @@ The classical SIR model was fitted to the observed infected cases by optimizing 
 | R² | **0.9613** |
 
 <p align="center">
-  <img src="results/classical_sir.gif" width="700">
+  <img src="results/sir_vs_data.gif" width="700">
 </p>
 
 **Optimized Classical SIR Model compared with observed infected cases in Germany**
