@@ -45,7 +45,7 @@ The UDE-SIR model extends the SIR framework by incorporating a neural network in
 | R² | 0.4614 |
 
 <p align="center">
-  <img src="results/ude_results.gif" width="700">
+  <img src="results/ude_vs_data3.gif" width="700">
 </p>
 
 **UDE-SIR Model compared with observed infected cases in Germany**
